@@ -9,7 +9,7 @@
 		<version>1.2.3.RELEASE</version>
 	</parent>
 
-	<groupId>com.pacegeeks</groupId>
+	<groupId>example.boot.magic</groupId>
 	<artifactId>magic</artifactId>
 	<version>1.0.0</version>
 
